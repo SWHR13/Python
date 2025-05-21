@@ -1,0 +1,11 @@
+The main difference between a list and a tuple in Python is:
+
+
+List is Mutable (can be changed) while Tuple is❌ Immutable (cannot be changed).
+Syntax of List is	[] (e.g., [1, 2, 3]) while the Syntax of Tuple is	() (e.g., (1, 2, 3))
+Performance of a List is	Slower (because it's mutable)	while the performance of a Tuple is Faster (because it's immutable)
+Use Case of a List is	When data can change while the Use Case of a Tuple is	When data should stay constant
+
+So in short:
+Use list when you need to modify the data.
+Use tuple when the data should be fixed and protected.
